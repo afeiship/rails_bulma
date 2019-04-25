@@ -13,3 +13,8 @@
    ```scss
    @import "rails_bulma/bulma";
    ```
+## sync new bulma
+```shell
+# from: git@github.com:afeiship/bulma-scss.git
+rake app:sync_bulma
+```
