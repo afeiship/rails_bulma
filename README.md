@@ -1,28 +1,12 @@
-# RailsBulma
-Short description and motivation.
+# rails_bulma
+> Bulma for rails.
 
-## Usage
-How to use my plugin.
-
-## Installation
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'rails_bulma'
-```
-
-And then execute:
-```bash
-$ bundle
-```
-
-Or install it yourself as:
-```bash
-$ gem install rails_bulma
-```
-
-## Contributing
-Contribution directions go here.
-
-## License
-The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+## usage
+1. Add to gem
+    ```rb
+    gem 'rails_rails', path: '/Users/feizheng/github/rails_rails'
+    ```
+2. Add to scss file
+   ```scss
+   @import "rails_bulma/bulma";
+   ```
